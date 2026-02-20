@@ -24,7 +24,7 @@ The system provides hints whether the guess is higher or lower than the actual n
 - time.h
   
 ## Code Editor Used
- ( DevC++ )
+  DevC++ 
 
 ## How To Run
 
